@@ -7,13 +7,13 @@
         background-image: linear-gradient(variables.$blue1, variables.$blue2);
     }
     &--ui-ux {
-        background-image: linear-gradient(variables.$blue2, variables.$pink);
+        background-image: linear-gradient(variables.$blue2, variables.$orange);
     }
     &--data-science {
-        background-image: linear-gradient(variables.$pink, variables.$yellow);
+        background-image: linear-gradient(variables.$orange, variables.$yellow);
     }
     &--backend {
-        background-image: linear-gradient(variables.$yellow, variables.$pink);
+        background-image: linear-gradient(variables.$yellow, variables.$orange);
     }
 
     &--image-left {
